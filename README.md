@@ -4,4 +4,4 @@ Team Cyborg submission for ACM-W India National Level Virtual Hackathon, Novembe
 ##
 Team Members: Niranjana Madathil (Captain), Keerti P. Charantimath, Pragya Asati 
 ##
-Reached the pre-final round of the all-India hachathon.
+Reached the pre-final round of the all-India hackathon.
